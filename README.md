@@ -1,2 +1,2 @@
 # Chess
-Simple Chess Game Java Swing GUI
+Chess Game Java Swing GUI
